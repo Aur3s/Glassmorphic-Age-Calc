@@ -25,8 +25,3 @@ A cinematic, premium-tier Age Calculator built with modern web technologies. Des
 
 [🔗 Click here to explore the live application via GitHub Pages](YOUR_GITHUB_PAGES_LINK_HERE)
 
-## 💻 Setup & Installation
-
-No complex build tools, compilers, or `npm install` required. 
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
-2. Open `index.html` directly in any modern web browser.
