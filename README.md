@@ -1,8 +1,10 @@
-# ⏳ Life Journey | Smart Age Calculator
+# ⏳ Life Journey | Smart Age Calculator (Beta Demo)
+
+> ⚠️ **Note:** This is a live preview/test repository. Feel free to explore and test the interface!
 
 A cinematic, premium-tier Age Calculator built with modern web technologies. Designed with a sleek mobile-first "Glassmorphism" interface, this tool provides pinpoint accurate tracking of a user's life timeline down to the exact year, month, and day.
 
-## ✨ Features
+## ✨ Features Included in This Demo
 
 * **Glassmorphic Phone Shell Design:** A stunning UI mimicking a modern smartphone interface with vibrant, premium gradient backdrops and blur effects.
 * **Pinpoint Chronological Accuracy:** Flawlessly accounts for leap years, varying month lengths, and prevents future date selections.
@@ -20,8 +22,3 @@ A cinematic, premium-tier Age Calculator built with modern web technologies. Des
 * **FontAwesome v6.4.0** (Sleek vector iconography)
 * **Canvas Confetti v1.6.0** (High-performance script-driven animations)
 * **Google Fonts** (Cairo & Tajawal typography)
-
-## 🚀 Live Demo
-
-[🔗 Click here to explore the live application via GitHub Pages](YOUR_GITHUB_PAGES_LINK_HERE)
-
